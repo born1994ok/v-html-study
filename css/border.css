@@ -1,0 +1,5 @@
+.main-box {
+    border-color: red yellow green purple;
+    border-style: solid ;
+    border-width: 10px;
+}

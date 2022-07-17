@@ -1,0 +1,49 @@
+@import "reset.css";
+
+body {
+    background-color:rgb(204, 204, 204);
+}
+
+header {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    min-width: 100vw;}
+
+nav {
+    
+    max-width: 1024px;
+    min-width: 1024px; 
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    font-weight: 1000;
+}
+#main-container {
+    max-width: 1024px;
+    min-width: 1024px;
+    background-color: (rgb(255, 255, 255));
+    margin: 0 auto;
+    padding-top: 60px;
+}
+h1 {
+    font-size: 59px;   
+font-style: italic ; 
+font-weight: bold; 
+line-height: 1.0em; 
+color: navy;
+font-family: arial;
+    color:rgb(8, 0, 8);
+    background-color: rgb(175, 173, 171);
+    }
+#main-image {
+    max-width: 1024px;
+    min-width: 1024px;
+    background-color:(rgb(255, 255, 255));
+    margin: 0 auto;
+    padding-top: 60px;
+}
